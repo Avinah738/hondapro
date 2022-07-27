@@ -1,0 +1,361 @@
+/* div A start */
+.A {
+  width: 100%;
+  text-align: center;
+}
+
+/* div A end */
+/* div B start */
+.B {
+  width: 30%;
+  float: left;
+}
+
+/* div B end */
+/* div C start */
+.C {
+  width: 10%;
+  margin: 0 auto;
+}
+
+/* div C end */
+/* div BC start */
+.BC {
+  margin: 30px;
+  border: 3px solid grey;
+  border-radius: 22px;
+}
+
+.BC {
+  background-image: url('Sales process1.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div BC end */
+/* div D start */
+.D {
+  width: 40%;
+  float: left;
+}
+
+.D a:link,
+.D a:visited {
+  color: blue;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.D a:hover,
+.D a:active {
+  color: MidNightBlue;
+}
+
+.D {
+  background-image: url('api1.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div D end */
+/* div E statt */
+.E {
+  width: 10px;
+  margin: 0 auto;
+}
+
+/* div E end */
+/* div F start */
+.F {
+  background-image: url('api2.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div F end */
+/* div G start */
+.G a:link,
+.G a:visited {
+  color: blue;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.G a:hover,
+.G a:active {
+  color: MidNightBlue;
+}
+
+.G {
+  background-image: url('security.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div G end */
+/* div H start */
+.H a:link,
+.H a:visited {
+  color: blue;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.H a:hover,
+.H a:active {
+  color: MidNightBlue;
+}
+
+.H {
+  background-image: url('application2.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div H end */
+/* div I start */
+.I {
+  width: 40%;
+  float: left;
+}
+
+.I {
+  background-image: url('application1.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 1800px;
+}
+
+/* div I end */
+/* div J start */
+.J {
+  width: 5%;
+  padding-top: 550px;
+  margin: 0 auto;
+}
+
+/* div J end */
+/* div K start */
+.K {
+  width: 45%;
+  float: left;
+}
+
+.K a:link,
+.K a:visited {
+  color: blue;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.K a:hover,
+.K a:active {
+  color: MidNightBlue;
+}
+
+.K {
+  background-image: url('cloud1.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div K end */
+/* div L start */
+.L {
+  width: 1%;
+  margin: 0 auto;
+}
+
+/* div L end */
+/* div M start */
+.M {
+  width: 40%;
+  float: left;
+}
+
+.M {
+  background-image: url('cloud3.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div M end */
+/* div N start */
+.N {
+  width: 10px;
+  padding-top: 50px;
+  margin: 0 auto;
+}
+
+/* div N end */
+/* div O start */
+.O a:link,
+.O a:visited {
+  color: blue;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.O a:hover,
+.O a:active {
+  color: MidNightBlue;
+}
+
+.O {
+  background-image: url('cloud2.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div O end */
+/* div P start */
+.P {
+  width: 50%;
+  float: left;
+}
+
+.P a:link,
+.P a:visited {
+  color: blue;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.P a:hover,
+.P a:active {
+  color: MidNightBlue;
+}
+
+.P {
+  background-image: url('software1.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div P end */
+/* div Q start */
+.Q {
+  width: 10%;
+  padding-left: 350px;
+  margin: 0 auto;
+}
+
+/* div Q end */
+/* div R start */
+.R {
+  float: left;
+  width: 40%;
+}
+
+.R a:link,
+.R a:visited {
+  color: blue;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.R a:hover,
+.R a:active {
+  color: MidNightBlue;
+}
+
+.R {
+  background-image: url('software3.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+}
+
+/* div R end */
+/* div S start */
+.S {
+  width: 10px;
+  padding-left: 250px;
+  margin: 0 auto;
+}
+
+/* div S end */
+/* div T start */
+.T {
+  background-image: url('software2.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 1000px;
+}
+
+/* div T end */
+/* div U start */
+.U a:link,
+.U a:visited {
+  color: blue;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.U a:hover,
+.U a:active {
+  color: MidNightBlue;
+}
+
+/* div U end */
+/* div V start */
+.V {
+  text-align: center;
+}
+
+/* div V end */
+/* div W start */
+.W {
+  background-image: url('hsdm1.jpg');
+  background-repeat: no-repeat;
+  background-size: 1500px 2800px;
+}
+
+/* div W end */
+/* div X start */
+.X {
+  width: 32%;
+  float: right;
+}
+
+/* div X end */
+/* div Y start */
+.Y {
+  width: 34%;
+  float: left;
+}
+
+/* div Y end */
+/* div Z start */
+.Z {
+  width: 32%;
+  margin: auto;
+}
+
+/* div Z end */
+/* div XYZ start */
+.XYZ {
+  background-image: url('hondaconnect.jpg');
+  background-repeat: no-repeat;
+  background-size: 1600px;
+}
+
+.XYZ a:link,
+a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.XYZ a:hover,
+a:active {
+  background-color: red;
+}
+
+/* div XYZ end */
+/* div D-Z start */
+.D-Z {
+  border: 3px solid indigo;
+  border-radius: 15px;
+}
+
+/* div D-Z end */
